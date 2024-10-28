@@ -2,6 +2,7 @@ div{
   background: greenyellow;
   height: 100vh;
   width: 100vw;
-  text-align: center;
+  text-align: right;
   text-transform: capitalize;
+  color: bisque;
 }
